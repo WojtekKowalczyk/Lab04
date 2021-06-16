@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gra - kółko i krzyżyk</string>
+
+    <string name="sprawdz_kto_wygral">Sprawdż wynik</string>
+    <string name="reset">Wyczyść</string>
+
+</resources>
